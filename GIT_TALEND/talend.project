@@ -411,4 +411,5 @@
     <migrationTask xmi:id="_g9fpJNCgEeiCWuQIsh7ZAA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_gTKSQtCgEeiCWuQIsh7ZAA" login="admin@company.com" firstName="security" lastName="security" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_REGcMdCiEeiyJIO8r2pAcw" login="manogna.velpucharla@thinkartha.com" firstName="manogna" lastName="velpucharla" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
